@@ -48,7 +48,7 @@ $(document).ready(function(){
             
         })
         .fail( function(){
-            alert("Has fracasado en la vida.");
+            alert("Falló, pero esto no te detendrá hasta lograr lo que buscas, eres seca :)");
         })
         .always( function(){
             $(".loader1").hide();
